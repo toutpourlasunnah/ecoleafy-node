@@ -212,8 +212,8 @@ void loop()
 
     currentTime = millis();
 
-    // Send data every 5 seconds
-    if (currentTime - previousTime >= 5000)
+    // Send data every ~ 2 minutes
+    if (currentTime - previousTime >= 72000)
     {
       previousTime = currentTime;
       temperature = totalTemperature / counter;

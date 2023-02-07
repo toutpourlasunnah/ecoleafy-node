@@ -1,6 +1,6 @@
 # Ecoleafy-Node
 
-[Here is the main Github repo](https://github.com/toutpourlasunnah/ecoleafy-hubserver)
+[Main Github repo](https://github.com/toutpourlasunnah/ecoleafy-hubserver)
 
 This app is part of the project submission to the McHacks 10 Hackathon 2023. See : https://devpost.com/software/ecoleafy
 

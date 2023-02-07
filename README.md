@@ -15,7 +15,7 @@ Features
 
 ## Getting Started
 
-1. Clone the repository using git clone https://github.com/toutpourlasunnah/ecoleafy-node.git
+1. Clone the repository using `git clone https://github.com/toutpourlasunnah/ecoleafy-node.git`
 2. Open the projectwith the Arduino IDE
 3. Compile and upload the firmware to the device 
 4. Make sure you have the [backend server](https://github.com/toutpourlasunnah/ecoleafy-hubserver) up and running
